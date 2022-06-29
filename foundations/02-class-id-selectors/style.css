@@ -1,0 +1,16 @@
+.example-class {
+background-color: #EF98AA;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.big-text {
+    font-size: 24px;
+}
+#example-id-format1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+#example-id-format2 {
+    background-color: #C0FFC9;
+    font-size: 24px;
+    font-weight: bold;
+}
